@@ -1,10 +1,12 @@
 ### Hello! Welcome to my profile, make yourself at home! 🤠
 
-#### 😉 My name is Beatriz, I'm 19 years old and I'm studying to become a full-stack developer. Now, I'm focusing on front-end technologies.
+#### 😉 My name is Beatriz, I'm 19 years old and I'm studying to become a full-stack developer.<br> Now, I'm focusing on front-end technologies.
 
 #### 🤓 I also like to learn more about mobile developing, computer network and digital security.
 
 #### 💻 Feel free to get in touch with me:
+
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsmbarreto@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beatrixiez)
@@ -12,6 +14,8 @@
 #
 
 ### 🧐 Take a look what I'm currently working on:
+
+<br>
 
 <div style="display:inline">
 
