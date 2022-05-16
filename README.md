@@ -2,7 +2,7 @@
 
 #### 😉 My name is Beatriz, I'm 19 years old, and I'm studying to become a full-stack developer.<br> Now, I'm focusing on front-end technologies.
 
-#### 🤓 I also like to learn more about mobile developing, computer network, and digital security.
+#### 🤓 I also like to learn more about mobile developing, computer networks, and digital security.
 
 #### 💻 Feel free to get in touch with me:
 
