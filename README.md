@@ -43,7 +43,7 @@
 
 <div>
   <a href="https://github.com/beatrixiez?tab=repositories">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrixiez&count_private=true&show_icons=true&theme=chartreuse-dark&hide=issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrixiez&count_private=true&show_icons=true&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrixiez&layout=compact&count_private=true&langs_count=8&theme=chartreuse-dark&title_color=ffffff"/>
 </div>
 
