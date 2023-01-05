@@ -1,6 +1,6 @@
 ### Hello! Welcome to my profile, make yourself at home! 🤠
 
-#### 😉 My name is Beatriz, I'm 19 years old, and I'm studying to become a full-stack developer.<br> Now, I'm focusing on back-end technologies.
+#### 😉 My name is Beatriz, I'm 19 years old, and I'm studying to become a full-stack developer.<br> Now, I'm focusing on front-end technologies.
 
 #### 🤓 I also like to learn more about mobile developing, computer networks, and digital security.
 
@@ -62,8 +62,9 @@
 
 <div style="display:inline">
 
-<img alt="linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="red hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
 
 </div>
 
