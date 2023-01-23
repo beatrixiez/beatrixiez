@@ -4,9 +4,9 @@
 
 <br>
 
-#### 🤠 Welcome to my profile and make yourself at home! 
+- 🤠 Welcome to my profile and make yourself at home! 
 
-#### 😉 I'm 19 years old and I'm studying to become a full-stack developer.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now I'm focusing on front-end technologies.
+- 😉 I'm 19 years old and I'm studying to become a full-stack developer.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now I'm focusing on front-end technologies.
 
 - 🌱 I’m currently learning **Typescript and React**
 
