@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋🏻, I'm Beatriz</h1>
-<h3 align="center">A frontend development student from Brazil</h3>
+<h3 align="center">A young student from Brazil</h3>
 
 
 <br>
 
 - 🤠 Welcome to my profile and make yourself at home! 
 
-- 😉 I'm 20 years old and I'm studying to become a front-end developer.
+- 😉 I'm 20 years old and I'm studying to become an IT infrastructure specialist.
 
-- 🌱 I’m currently learning **Typescript and React**
+- 🌱 I’m currently learning about **Networks and Information Security**
 
 - 📫 Contact me by [e-mail](mailto:bsmbarreto@gmail.com) or [Telegram](https://t.me/beatrixiez)
 
@@ -32,11 +32,14 @@
 <a alt="css3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
 <a alt="bootstrap" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="40" height="40"/> </a>
 <a alt="javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
+<a alt="react" href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> </a>
 <a alt="git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
 <a alt="nodejs" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="40" height="40"/> </a> 
 <a alt="figma" href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> </a> 
 <a alt="xd" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/> </a> 
-<a alt="photoshop" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> </a> </p>
+<a alt="photoshop" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> </a> 
+<a alt="jira" href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">How things are going here:</h3>
 
