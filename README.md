@@ -6,7 +6,7 @@
 
 - 🤠 Welcome to my profile and make yourself at home! 
 
-- 😉 I'm 21 years old and I'm studying to become an IT infrastructure specialist.
+- 😉 I'm 22 years old and I'm studying to become an IT infrastructure specialist.
 
 - 🌱 I’m currently learning about **Networks and Information Security**
 
