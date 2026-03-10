@@ -20,8 +20,8 @@
 📄 Veja um pouco das minhas experiências: <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-sm-barreto/)
 
-<h3 align="left">Ferramentas que já utilizei:</h3>
+<h3 align="left">Linguagens que já utilizei:</h3>
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrixiez&layout=compact&count_private=true&langs_count=8&theme=chartreuse-dark&title_color=ffffff&hide=html,solidity,python"/>
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
