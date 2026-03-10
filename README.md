@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋🏻, I'm Beatriz</h1>
-<h3 align="center">A student from Brazil</h3>
+<h1 align="center">Olá, eu sou a Beatriz</h1>
+<h3 align="center">Estudante de TI</h3>
 
 
 <br>
 
-- 🤠 Welcome to my profile and make yourself at home! 
+- 🤠 Bem-vindo(a) ao meu perfil!
 
-- 😉 I'm 22 years old and I'm studying to become an IT infrastructure specialist.
+- 😉 Eu tenho 22 anos e quero me tornar uma Analista de Redes.
 
-- 🌱 I’m currently learning about **Networks and Information Security**
+- 🌱 Atualmente eu estou estudando **Redes Wi-Fi**.
 
-- 📫 Contact me by [e-mail](mailto:bsmbarreto@gmail.com) or [Telegram](https://t.me/beatrixiez)
+- 📫 Entre em contato comigo pelo [Telegram](https://t.me/trixiexz).
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/beatriz-sm-barreto/)
+- 📄 Veja um pouco das minhas experiências no [LinkedIn](https://www.linkedin.com/in/beatriz-sm-barreto/).
 
-- ⚡ Fun fact: **my first contact with Java was when I was 9 years old**
+- ⚡ Fato curioso: **meu primeiro contato com Java foi aos 9 anos de idade**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
