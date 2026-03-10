@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Beatriz</h1>
+<h1 align="center">Olá, eu sou a Beatriz!</h1>
 <h3 align="center">Estudante de TI</h3>
 
 
