@@ -6,7 +6,7 @@
 
 - 🤠 Bem-vindo(a) ao meu perfil!
 
-- 😉 Eu tenho 22 anos e pretendo me tornar uma Analista de Redes.
+- 😉 Eu tenho 23 anos e pretendo me tornar uma Analista de Redes.
 
 - 🌱 Atualmente eu estou estudando **Redes Wi-Fi**.
 
